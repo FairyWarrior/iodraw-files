@@ -19,11 +19,17 @@
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0hJ1VYIsg2pukCq8H_EN-19" target="0hJ1VYIsg2pukCq8H_EN-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0hJ1VYIsg2pukCq8H_EN-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0hJ1VYIsg2pukCq8H_EN-19" target="0hJ1VYIsg2pukCq8H_EN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-19" value="发起人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="382" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-22" value="发起流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="265" y="268" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0hJ1VYIsg2pukCq8H_EN-24" value="结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="382" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
