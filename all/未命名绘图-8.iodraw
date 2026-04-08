@@ -10,18 +10,8 @@
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-1" value="上一次任务节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="382" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0hJ1VYIsg2pukCq8H_EN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0hJ1VYIsg2pukCq8H_EN-3" target="0hJ1VYIsg2pukCq8H_EN-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="514" y="342" as="sourcePoint" />
-            <mxPoint x="304" y="302" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="549" y="342" />
-              <mxPoint x="279" y="342" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-3" value="当前节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="489" y="382" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="382" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-5" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="374" y="380" width="70" height="30" as="geometry" />
@@ -34,6 +24,9 @@
         </mxCell>
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-14" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="382" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0hJ1VYIsg2pukCq8H_EN-16" value="当前节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="392" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
