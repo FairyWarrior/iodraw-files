@@ -31,8 +31,11 @@
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-24" value="结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="382" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0hJ1VYIsg2pukCq8H_EN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0hJ1VYIsg2pukCq8H_EN-26" target="0hJ1VYIsg2pukCq8H_EN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-26" value="填表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="382" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
