@@ -31,6 +31,9 @@
         <mxCell id="0hJ1VYIsg2pukCq8H_EN-24" value="结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="382" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0hJ1VYIsg2pukCq8H_EN-26" value="填表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
