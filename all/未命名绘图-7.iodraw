@@ -1,0 +1,160 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="cyVvOyJE6ks1IMQ_mGcC">
+    <mxGraphModel dx="1702" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-2" target="6wjZ1XGp17KvuN6uzJ5E-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-2" value="起草信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-3" value="评审报告1P&lt;div&gt;&lt;br&gt;&lt;div&gt;评审图片预览链接&lt;/div&gt;&lt;div&gt;评审对象&lt;/div&gt;&lt;div&gt;申请类别&lt;/div&gt;&lt;div&gt;评审得分&lt;/div&gt;&lt;div&gt;级别&lt;/div&gt;&lt;div&gt;评审日期&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="420" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-6" target="6wjZ1XGp17KvuN6uzJ5E-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-6" value="起草信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="100" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-7" value="页眉XX公司（评审单位）" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="320" y="420" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-13" target="6wjZ1XGp17KvuN6uzJ5E-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-13" value="起草信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="620" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-14" value="评审报告2P&lt;div&gt;&lt;br&gt;&lt;div&gt;XX公司全称（评审单位）&lt;/div&gt;&lt;div&gt;评审负责人（&lt;span style=&quot;color: rgb(102, 102, 102); font-family: &amp;quot;Source Han Sans CN Regular&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;; font-size: 14px; text-align: right; background-color: initial;&quot;&gt;评审负责人&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评审组成员（提交或者保存时，选择的专家）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;报告编制&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;审批&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;批准&lt;br&gt;xx年xx月xx日（&lt;/span&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: &amp;quot;Source Han Sans CN Regular&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;; font-size: 14px; text-align: right; background-color: initial;&quot;&gt;评审日期+8天&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="550" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-16" target="6wjZ1XGp17KvuN6uzJ5E-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-16" value="起草信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="810" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-17" value="评审报告 3 P&lt;div&gt;&lt;br&gt;&lt;div&gt;专家组于{评审日期}对{评审单位}进行了现场检查&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{报告编写日期（评审日期+8天）}（报告编写日期）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="740" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-19" target="6wjZ1XGp17KvuN6uzJ5E-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-19" value="起草信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1000" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-20" value="评审报告4P&lt;div&gt;&lt;br&gt;&lt;div&gt;受{评审单位}委托&lt;br&gt;&lt;br&gt;法定代表人（签字）：{这块页面输入？}&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="930" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-25" target="6wjZ1XGp17KvuN6uzJ5E-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-25" value="起草信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1225" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-26" target="6wjZ1XGp17KvuN6uzJ5E-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-26" value="评审报告5P&lt;div&gt;&lt;br&gt;&lt;div&gt;1.1公司概况&lt;br&gt;{手动填写}&lt;br&gt;&lt;div&gt;1.2安全生产管理及绩效1.2.1安全生产管理&lt;/div&gt;&lt;div&gt;(一)安全管理概述&lt;/div&gt;&lt;div&gt;{手动填写}&lt;/div&gt;&lt;div&gt;(二)上年度安全目标完成情况&lt;/div&gt;&lt;div&gt;{手动填写}&lt;/div&gt;&lt;div&gt;(三)主要安全工作和取得的成效&lt;/div&gt;&lt;div&gt;{手动填写}&lt;/div&gt;&lt;div&gt;1.3公司自查自评情况&lt;/div&gt;&lt;div&gt;{抓取选择的评审专家内容}&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="1120" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-27" target="6wjZ1XGp17KvuN6uzJ5E-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-27" value="保存，不指定专家&lt;br&gt;提交时，指定专家" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-30" value="项目经理立项后，提交对应的专家，给对应专家发送系统通知" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-32" value="专家列表接口&lt;br&gt;业务列表接口" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1150" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-32" target="6wjZ1XGp17KvuN6uzJ5E-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="1260" as="sourcePoint" />
+            <mxPoint x="300" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-35" target="6wjZ1XGp17KvuN6uzJ5E-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-35" value="起草信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1525" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-36" value="评审报告6P&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;第二章 现场评审管理&lt;/div&gt;&lt;div&gt;2.1评审人员专业分工&lt;br&gt;{评审专家表格，对应业务任务，以表格展示}&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="1420" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wjZ1XGp17KvuN6uzJ5E-39" target="6wjZ1XGp17KvuN6uzJ5E-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-39" value="起草信息" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1785" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6wjZ1XGp17KvuN6uzJ5E-40" value="评审报告6P&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;第二章 现场评审管理&lt;/div&gt;&lt;div&gt;2.1评审人员专业分工&lt;br&gt;{评审专家表格，对应业务任务，以表格展示}&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="1680" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-1" value="草稿" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="65" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-2" value="专家维护&lt;br&gt;用户1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FqEgXuPc4F4h6o0tGjJX-4" target="FqEgXuPc4F4h6o0tGjJX-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-4" value="组长审批" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-7" value="专家维护&lt;div&gt;用户X&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqEgXuPc4F4h6o0tGjJX-1" target="FqEgXuPc4F4h6o0tGjJX-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-410" y="120" as="sourcePoint" />
+            <mxPoint x="-360" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqEgXuPc4F4h6o0tGjJX-1" target="FqEgXuPc4F4h6o0tGjJX-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-550" y="100" as="sourcePoint" />
+            <mxPoint x="-435" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqEgXuPc4F4h6o0tGjJX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-550" y="100" as="sourcePoint" />
+            <mxPoint x="-445" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqEgXuPc4F4h6o0tGjJX-2" target="FqEgXuPc4F4h6o0tGjJX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-550" y="100" as="sourcePoint" />
+            <mxPoint x="-435" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FqEgXuPc4F4h6o0tGjJX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-325" y="90" as="sourcePoint" />
+            <mxPoint x="-220" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqEgXuPc4F4h6o0tGjJX-7" target="FqEgXuPc4F4h6o0tGjJX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-305" y="30" as="sourcePoint" />
+            <mxPoint x="-210" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-17" value="项目经理完善" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FqEgXuPc4F4h6o0tGjJX-19" value=".&lt;br&gt;.&lt;br&gt;.&lt;br&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
