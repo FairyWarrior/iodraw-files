@@ -43,7 +43,7 @@
             <mxPoint x="170.04000000000005" y="324.81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hJ1VYIsg2pukCq8H_EN-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="0hJ1VYIsg2pukCq8H_EN-29" value="草稿" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="208" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
